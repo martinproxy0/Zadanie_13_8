@@ -1,0 +1,20 @@
+{
+    "name": "zadanie_13_8",
+    "version": "1.0.0",
+    "description": "Zadanie 13.8 Nasz własny serwer HTTP",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/martinproxy0/Zadanie_13_8.git"
+    },
+    "author": "Marcin Sornek",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/martinproxy0/Zadanie_13_8/issues"
+    },
+    "homepage": "https://github.com/martinproxy0/Zadanie_13_8#readme"
+}
